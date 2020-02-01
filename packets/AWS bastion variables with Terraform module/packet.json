@@ -90,6 +90,7 @@
       "writability": "ALWAYS",
       "required": false,
       "isPartOfKey": false,
+      "cacheMinutes": 0,
       "referenceFilter": "",
       "referenceValueAttributeName": "",
       "referenceChildGuidFilter": "",
